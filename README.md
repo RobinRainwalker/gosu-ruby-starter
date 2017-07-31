@@ -32,6 +32,11 @@ This class will provide all the basic functionality for creating a game includin
 ## Technologies Used: ##
 * Ruby
 * GOSU
+
+## Technologies that pair with Gosu ##
+* rmagik
+* chipmunk
+
 ## Links for tuturials ##
   https://www.libgosu.org/cpp/class_gosu_1_1_window.html
   https://github.com/gosu/gosu/wiki/ruby-tutorial
